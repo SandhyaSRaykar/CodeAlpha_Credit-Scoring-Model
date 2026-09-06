@@ -1,2 +1,2 @@
-# CodeAlpha_Credit-Scoring-Model
-A machine learning project that predicts an individual's creditworthiness using historical financial data.
+# codealpha_credit_scoring_model
+Predict an individual's creditworthiness using past financial data.
