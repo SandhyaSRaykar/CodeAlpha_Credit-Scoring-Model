@@ -84,12 +84,14 @@ python credit_scoring.py
 
 ## 👨‍💻 Author
 
-**Swamy V C**
+**Sandhya S**
 
 Information Science and Engineering Student
 
-- GitHub: https://github.com/SwamyVC
-- LinkedIn: https://linkedin.com/in/swamy-v-c-7a54972b5
+-LinkedIn: https://linkedin.com/in/sandhya-s-606723376
+-GitHub: https://github.com/SandhyaSRaykar
+-Email: sandhyasraykar@gmail.com
+
 
 ---
 
